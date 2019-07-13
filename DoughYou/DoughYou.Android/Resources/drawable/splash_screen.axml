@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--Create a layer list that contains the background color and a logo -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <!--choose the white color as a background-->
+    <color android:color="@color/launcher_background"/>
+  </item>
+  <item>
+    <!--A bitmap which has the picture MIB_Intel_logo -->
+    <bitmap
+        android:src="@drawable/doughyoulogo"
+        android:tileMode="disabled"
+        android:gravity="center"/>
+  </item>
+</layer-list>

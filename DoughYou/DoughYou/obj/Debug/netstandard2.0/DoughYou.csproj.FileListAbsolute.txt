@@ -1,0 +1,14 @@
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\bin\Debug\netstandard2.0\DoughYou.deps.json
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\bin\Debug\netstandard2.0\DoughYou.dll
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\bin\Debug\netstandard2.0\ref\DoughYou.dll
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\bin\Debug\netstandard2.0\DoughYou.pdb
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.csprojAssemblyReference.cache
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.csproj.CoreCompileInputs.cache
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.AssemblyInfoInputs.cache
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.AssemblyInfo.cs
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\XamlC.stamp
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.dll
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\ref\DoughYou.dll
+C:\src\GitHub\DoughYou\DoughYou\DoughYou\DoughYou\obj\Debug\netstandard2.0\DoughYou.pdb
