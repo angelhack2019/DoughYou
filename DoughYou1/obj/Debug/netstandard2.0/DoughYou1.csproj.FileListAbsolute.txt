@@ -1,0 +1,17 @@
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/bin/Debug/netstandard2.0/DoughYou1.deps.json
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/bin/Debug/netstandard2.0/DoughYou1.dll
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/bin/Debug/netstandard2.0/ref/DoughYou1.dll
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/bin/Debug/netstandard2.0/DoughYou1.pdb
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.csprojAssemblyReference.cache
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.csproj.CoreCompileInputs.cache
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.AssemblyInfoInputs.cache
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.AssemblyInfo.cs
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.dll
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/ref/DoughYou1.dll
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/DoughYou1.pdb
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/AboutUs.xaml.g.cs
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/RegistrationPage.xaml.g.cs
+/Users/ipchelsea/Projects/DoughYou1/DoughYou1/obj/Debug/netstandard2.0/Homepage.xaml.g.cs
